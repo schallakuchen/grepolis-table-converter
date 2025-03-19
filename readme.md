@@ -7,7 +7,7 @@ This Python script provides a graphical user interface (GUI) to convert Excel ta
 ### GUI
 ![GUI_example.png](doc%2FGUI_example.png)
 ### Input
-![excel_input_example.png](doc%2FExcel_input_example.png)
+![excel_input_example.png](doc%2Fexcel_input_example.png)
 ### Output
 ![txt_output_example.png](doc%2Ftxt_output_example.png)
 ## Features
